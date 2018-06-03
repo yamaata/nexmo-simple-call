@@ -1,0 +1,17 @@
+# JetBrains IDE Settings
+.idea/
+
+# Nodejs
+node_modules/
+.config/
+.npm/
+.yarn/
+.cache/
+*.log
+
+# OS Files
+.DS_Store
+
+# Local Env
+.env
+key/
